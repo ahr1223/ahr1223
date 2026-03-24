@@ -1,5 +1,13 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I’m currently working on  <br>- Improving my problem-solving skills  <br>- Building scalable and clean code  <br><br>👯 I’m looking to collaborate on  <br>- Open Source projects  <br>- AI/ML and Web Development  <br><br>🤝 I’m looking for help with  <br>- System Design  <br>- Advanced Backend Development  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms  <br>- Backend Development (APIs, Flask)  <br>- AI/ML concepts  <br><br>💬 Ask me about  <br>- Python, C++, Flutter  <br>- GitHub & Open Source  <br>- Coding and tech basics  <br><br>⚡ Fun fact  <br>- I enjoy building things and learning by doing 🚀
+## 💫 About Me:
+
+💻 Developer | 🤖 AI Enthusiast  
+
+🔭 Improving problem-solving & building clean, scalable code  
+🌱 Learning DSA, Backend & AI/ML  
+👯 Open to Open Source & collaboration  
+
+💬 Ask me about Python, C++, Flutter  
+⚡ Love turning ideas into real things 🚀
 
 
 ## 🌐 Socials:
