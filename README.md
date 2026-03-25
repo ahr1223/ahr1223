@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 💻 Developer | 🤖 AI Enthusiast  <br><br>🔭 Focused on problem-solving & scalable systems  <br>🌱 Learning DSA, Backend & AI/ML  <br>👯 Open to Open Source collaboration  <br><br>⚡ Building skills, not just projects 🚀
 
 
